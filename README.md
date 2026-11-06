@@ -23,3 +23,4 @@ A responsive, single-page sales analytics dashboard built with vanilla HTML, CSS
 
 ## Getting Started
 Simply open `index.html` in any modern web browser.
+
